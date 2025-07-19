@@ -1,7 +1,7 @@
 using system;
 namespace hello{
-  class main{
-   public static void main(){
+  class Main{
+   public static void Main(){
      console.writeline('hello')
    } 
   }
