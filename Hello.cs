@@ -1,4 +1,4 @@
-using system;
+using System;
 namespace hello{
   class Main{
    public static void Main(){
